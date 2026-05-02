@@ -52,3 +52,4 @@ By downloading or using this mod, you agree to these conditions.
 
 - the supply cost indication indicates false values
 - the supply lifetime indication may not behave properly
+- the background rectangle may disapear
