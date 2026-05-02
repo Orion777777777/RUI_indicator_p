@@ -1,0 +1,15 @@
+===== 0.1.2 =====
+
+- Fixed fuel and supplies-per-day tracking to ensure accurate consumption metrics.
+- Added smooth easing animations to the UI transitions.
+- Fixed display issues regarding total supply costs for repairs.
+
+===== 0.1.1 =====
+
+- Added integrated Version Checker support for update notifications.
+- Added a new display feature showing total supplies required for full repairs.
+
+===== 0.1.0 =====
+
+- Initial Release
+- Basic UI indicators for fleet resources and essential stats.
