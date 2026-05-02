@@ -7,6 +7,7 @@ RUI (Resources UI Indicator) is a small quality-of-life mod for **Starsector** t
 It adds:
 - A clear indicator showing how many days of **fuel** your fleet has remaining
 - A supply estimate showing how many **supplies are needed to fully repair your fleet**
+- An indication of the total repair cost if the fleet requires repairs
 
 This helps players quickly assess fleet endurance without manually calculating resource consumption.
 
@@ -14,17 +15,25 @@ This helps players quickly assess fleet endurance without manually calculating r
 
 ## Features
 
-- Real-time fuel and supplies lifetime indicator
+- Real time fuel and supplies lifetime indicator
 - Total repair cost in supplies
 - Lightweight UI integration
+- LunaLib support
 
 ---
 
-## Installation
+## Installation instructions
+
+### Manual
 
 1. Download the latest release from the **Releases** tab
 2. Extract the folder into your Starsector `mods/` directory
 3. Enable the mod in the in-game launcher
+
+### TriOS
+
+1. Click Add Mod(s) button and import the .zip
+2. Activate the mod through TriOS
 
 ---
 
@@ -50,6 +59,10 @@ By downloading or using this mod, you agree to these conditions.
 
 ## Issues
 
-- the supply cost indication indicates false values
-- the supply lifetime indication may not behave properly
-- the background rectangle may disapear
+- FIXED    the supply cost indication indicates false values
+- FIXED    the supply lifetime indication may not behave properly
+- FIXED    the background rectangle may disapear
+
+## Roadmap
+
+The mod in it's current state is more or less feature complete. It may still evolve and add new things, but the developpment is mostly done for now except for bugfixes
