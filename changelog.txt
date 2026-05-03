@@ -1,9 +1,9 @@
 ========== 0.1.4 ==========
 
-- added scale support
-- changed mod folder name
-- fixed a crash when creating a new save without lunalib
-- minor internal refactors
+- Added scale support
+- Changed mod folder name
+- Fixed a crash when creating a new save without lunalib
+- Minor internal refactors
 
 ========== 0.1.3 ==========
 
