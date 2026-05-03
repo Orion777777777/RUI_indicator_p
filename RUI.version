@@ -1,10 +1,11 @@
 {
     "masterVersionFile": "https://raw.githubusercontent.com/Orion777777777/RUI_indicator_p/main/RUI.version",
+    "directDownloadURL": "https://github.com/Orion777777777/RUI_indicator_p/releases/latest/download/RUI.zip",
+    "changelogURL": "https://raw.githubusercontent.com/Orion777777777/RUI_indicator_p/main/changelog.txt",
     "modName": "RUI Indicator",
     "modVersion": {
         "major": 0,
         "minor": 1,
-        "patch": 3
-    },
-    "directDownloadURL": "https://github.com/Orion777777777/RUI_indicator_p/releases/latest/download/RUI-Indicator.zip"
+        "patch": 4
+    }
 }
