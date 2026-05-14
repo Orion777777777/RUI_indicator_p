@@ -3,6 +3,7 @@
 - Fixed graphical artifacts
 - Added a new option to switch the overlay render mod
 - Changed LunaLib from soft dependency to a hard dependency
+- Fixed false default values in the settings
 
 ========== 0.1.5 ==========
 
