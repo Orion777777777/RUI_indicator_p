@@ -8,6 +8,7 @@ It adds:
 - A clear indicator showing how many days of **fuel** your fleet has remaining
 - A supply estimate showing how many **supplies are needed to fully repair your fleet**
 - An indication of the total repair cost if the fleet requires repairs
+- An indication of the used and remaining cargo space
 
 This helps players quickly assess fleet endurance without manually calculating resource consumption.
 
@@ -17,6 +18,7 @@ This helps players quickly assess fleet endurance without manually calculating r
 
 - Real time fuel and supplies lifetime indicator
 - Total repair cost in supplies
+- Cargo space indications
 - Lightweight UI integration
 - LunaLib support
 
@@ -62,6 +64,7 @@ By downloading or using this mod, you agree to these conditions.
 - FIXED    the supply cost indication indicates false values
 - FIXED    the supply lifetime indication may not behave properly
 - FIXED    the background rectangle may disapear
+- FIXED    potential crash if the config json file is missing
 
 ## Roadmap
 
